@@ -1,3 +1,0 @@
-Anwendung (Usage): java -cp ungender.jar Start [FILE]
-FILE	Dateiname (z. B. datei.txt)
-help	gibt diesen Hilfetextaus
